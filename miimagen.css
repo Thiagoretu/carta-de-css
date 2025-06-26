@@ -1,0 +1,10 @@
+div {
+    background-color: rgb(102, 165, 89);
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin: 300px;
+    border-radius: 100px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
